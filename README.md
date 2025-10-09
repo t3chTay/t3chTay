@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello, I'm Nataysia👋
+💻 I used to be really into robotics and computers as a child then I realised computer programming is something I can pursue!
 
+‼️ Currently learning Python
+🇨🇦 Canadian
+👩🏾‍🎨 Love embracing my creativity thru dancing, drawing, painting, and web design
+🤣 Silly Fun fact: I can still put my feet behind my head due to my hypermobility
+
+## Current Tech Stack
+html
+css
+python
 <!--
 **t3chTay/t3chTay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
