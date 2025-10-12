@@ -2,25 +2,13 @@
 💻 I used to be really into robotics and computers as a child then I realised computer programming is something I can pursue!
 
 ‼️ Currently learning Python <br>
-🍁 Canadian
-👩🏾‍🎨 Love embracing my creativity thru dancing, drawing, painting, and web design
+🍁 Canadian <br>
+👩🏾‍🎨 Love embracing my creativity thru dancing, drawing, painting, and web design <br>
 🤣 Silly Fun fact: I can still put my feet behind my head due to my hypermobility
 
 ## Current Tech Stack
-html
-css
-python
-<!--
-**t3chTay/t3chTay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+html <br>
+css <br>
+python <br>
+javascript <br>
+react <br>
