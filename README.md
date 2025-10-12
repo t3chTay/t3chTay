@@ -1,8 +1,8 @@
 ## Hello, I'm Nataysia👋
 💻 I used to be really into robotics and computers as a child then I realised computer programming is something I can pursue!
 
-‼️ Currently learning Python
-🇨🇦 Canadian
+‼️ Currently learning Python <br>
+🍁 Canadian
 👩🏾‍🎨 Love embracing my creativity thru dancing, drawing, painting, and web design
 🤣 Silly Fun fact: I can still put my feet behind my head due to my hypermobility
 
