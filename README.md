@@ -4,7 +4,6 @@
 ‼️ Currently learning Python <br>
 🍁 Canadian <br>
 👩🏾‍🎨 Love embracing my creativity thru dancing, drawing, painting, and web design <br>
-🤣 Silly Fun fact: I can still put my feet behind my head due to my hypermobility
 
 ## Current Tech Stack
 html <br>
