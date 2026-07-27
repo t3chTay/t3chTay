@@ -16,16 +16,15 @@
     <td width="50%">
       
   ## 🚀 About Me
+  - 💡 Always been into all sciences since a toddler
   - 🤖 Started with robotics & computers as a kid  
-  - 💡 Now diving deep into programming  
-  - 🔥 Currently learning **Python → Full Stack**  
-  - 🎭 Creative side: dancing, drawing, web design
+  - 🎭 Creative side: hardware prototyping, drawing, web & graphic design 
  
     </td>
     <td width="50%" valign="top" style="border:none;">
    ## 🧠 Tech Stack
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,flask,sqlite,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,flask,sqlite,postman,nodejs" />
   </p>
    </td>
   </tr>
@@ -35,21 +34,11 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t3chTay&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3chTay&theme=tokyonight" />
-</p>
 
 ![snake gif](https://github.com/t3chTay/t3chTay/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 👩🏾‍💻 Current Focus
-- Building Client's **photography portfolio**
-- Creating a **VS Code theme**
-- Developing a **Discord bot**
+## 📫 Connect With Me on LinkedIn
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataysia-j-000271205/)
 
----
-
-## 📫 Connect With Me
-- Portfolio: coming soon 
