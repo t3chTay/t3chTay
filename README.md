@@ -18,7 +18,8 @@
   ## 🚀 About Me
   - 💡 Always been into all sciences since a toddler
   - 🤖 Started with robotics & computers as a kid  
-  - 🎭 Creative side: hardware prototyping, drawing, web & graphic design 
+  - 🎭 Creative side: hardware prototyping, drawing, web & graphic design
+  - 👩🏾‍💻 Consistently the designated tech help in my family lol
  
     </td>
     <td width="50%" valign="top" style="border:none;">
